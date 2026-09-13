@@ -1,6 +1,6 @@
 # Portfólio — Giovanna Ferreira Araujo
  
-Site pessoal em HTML puro (sem dependências de build), com tema claro e escuro. Feito para GitHub Pages.
+Site pessoal em HTML puro, com tema claro e escuro. Feito para GitHub Pages.
  
 ## Estrutura de arquivos
  
