@@ -1,4 +1,17 @@
 # Portfólio — Giovanna Ferreira Araujo
+
+Link de acesso: https://giovanna-faraujo.github.io/Portif-lio/
+
+<img width="948" height="340" alt="image" src="https://github.com/user-attachments/assets/fb7ae24f-64dc-4ac7-a432-dcfb2476b021" />
+
+---
+
+<img width="943" height="290" alt="image" src="https://github.com/user-attachments/assets/63fd922c-8c25-4bc7-9ca0-7e4a5dac9b7d" />
+
+---
+<img width="326" height="305" alt="image" src="https://github.com/user-attachments/assets/4c3e3118-a468-45b3-bfc5-ba7e91b97f38" />
+
+---
  
 Site pessoal em HTML puro, com tema claro e escuro. Feito para GitHub Pages.
  
